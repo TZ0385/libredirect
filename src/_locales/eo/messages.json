@@ -4,142 +4,157 @@
         "description": "name of the extension"
     },
     "extensionDescription": {
-        "message": "A web extension that redirects popular sites to alternative privacy-friendly frontends and backends",
+        "message": "Retumila etendaĵo, kiu alidirektas popularajn retejojn al privatece-amikaj fasadoj kaj interfacoj",
         "description": "description of the extension"
     },
     "switchInstance": {
-        "message": "Switch Instance",
+        "message": "Ŝanĝi servilon",
         "description": "used in manifest.json as shortcut description"
     },
     "settings": {
-        "message": "Settings",
+        "message": "Agordoj",
         "description": "used in the popup"
     },
     "general": {
-        "message": "General",
+        "message": "Ĝeneralaj",
         "description": "used in the settings page"
     },
     "theme": {
-        "message": "Theme",
+        "message": "Haŭto",
         "description": "used in the settings page"
     },
     "light": {
-        "message": "Light",
+        "message": "Hela",
         "description": "used in the settings page"
     },
     "dark": {
-        "message": "Dark",
+        "message": "Malhela",
         "description": "used in the settings page"
     },
     "auto": {
-        "message": "Auto",
+        "message": "Aŭtomata",
         "description": "used in the settings page"
     },
     "excludeFromRedirecting": {
-        "message": "Excluded from redirecting",
+        "message": "Eksigita de alidirektado",
         "description": "used in the settings page"
     },
     "importSettings": {
-        "message": "Import Settings",
+        "message": "Enporti agordojn",
         "description": "used in the settings page"
     },
     "exportSettings": {
-        "message": "Export Settings",
+        "message": "Elporti agordojn",
         "description": "used in the settings page"
     },
     "resetSettings": {
-        "message": "Reset Settings",
+        "message": "Restarigi agordojn",
         "description": "used in the settings page"
     },
     "enable": {
-        "message": "Enable",
+        "message": "Ŝalti",
         "description": "used in the settings page"
     },
     "showInPopup": {
-        "message": "Show in popup",
+        "message": "Montri en ŝprucfenestroj",
         "description": "used in the settings page"
     },
     "frontend": {
-        "message": "Frontend",
+        "message": "Fasado",
         "description": "used in the settings page"
     },
     "redirectType": {
-        "message": "Redirect Type",
+        "message": "Tipo de alidirekto",
         "description": "used in the settings page"
     },
     "both": {
-        "message": "both",
+        "message": "ambaŭ",
         "description": "used in the settings page"
     },
     "onlyEmbedded": {
-        "message": "only embedded",
+        "message": "nur enigitaj paĝoj",
         "description": "used in the settings page"
     },
     "onlyNotEmbedded": {
-        "message": "only not embedded",
+        "message": "nur neenigitaj paĝoj",
         "description": "used in the settings page"
     },
     "addYourFavoriteInstances": {
-        "message": "Add your favorite instances",
+        "message": "Aldonu viajn favoratajn servilojn",
         "description": "used in the settings page"
     },
     "copyOriginal": {
-        "message": "Copy Original"
+        "message": "Kopii originalan"
     },
     "copied": {
-        "message": "Copied"
+        "message": "Kopiita"
     },
     "redirectToOriginal": {
-        "message": "Redirect to original",
+        "message": "Alidirekti al fonto",
         "description": "Used in context menus when right clicking on a page/tab"
     },
     "redirectLink": {
-        "message": "Attempt to redirect",
+        "message": "Provi alidirekti",
         "description": "Used in context menus when right clicking on a hyperlink"
     },
     "about": {
-        "message": "About"
+        "message": "Pri"
     },
     "unsupportedIframesHandling": {
-        "message": "Unsupported embeds handling"
+        "message": "Traktado de nesubtenataj enigitaj paĝoj"
     },
     "fetchPublicInstances": {
-        "message": "Fetch public instances"
+        "message": "Ŝarĝado de listo de publikaj serviloj"
     },
     "disable": {
-        "message": "Disable"
+        "message": "Malŝalti"
     },
     "pingInstances": {
-        "message": "Ping Instances"
+        "message": "Eĥosondi servilojn"
     },
     "exportSettingsToSync": {
-        "message": "Export Settings to Sync"
+        "message": "Elporti agordojn por sinkronigado"
     },
     "importSettingsFromSync": {
-        "message": "Import Settings from Sync"
+        "message": "Enporti agordojn el sinkronigado"
     },
     "services": {
-        "message": "Services"
+        "message": "Servoj"
     },
     "service": {
-        "message": "Service"
+        "message": "Servo"
     },
     "bookmarksMenu": {
-        "message": "Bookmarks menu"
+        "message": "Menuo de legosignoj"
     },
     "redirectOnlyInIncognito": {
-        "message": "Redirect Only in Incognito"
+        "message": "Alidirekti nur en inkognita reĝimo"
     },
     "bypass": {
-        "message": "Bypass"
+        "message": "Preterpasi"
     },
     "block": {
-        "message": "Block"
+        "message": "Bloki"
     },
     "searchHint": {
-        "message": "Set LibRedirect as Default Search Engine. For how to do in chromium browsers, click <a href='https://libredirect.github.io/docs.html#search_engine_chromium' target='_blank' rel='noopener noreferrer'>here</a>."
+        "message": "Agordu LibRedirect·on kiel vian defaŭltan sercilon. Por kiel fari ĝin en Chromium-bazitaj retumiloj (angle), <a href='https://libredirect.github.io/docs.html#search_engine_chromium' target='_blank' rel='noopener noreferrer'>alklaku tien</a>."
     },
     "redirect": {
-        "message": "Redirect"
+        "message": "Alidirekti"
+    },
+    "autoPickInstance": {
+        "message": "Aŭtomate elekti servilon"
+    },
+    "redirectGoogle": {
+        "message": "Alidirekti Google·on"
+    },
+    "search_frontend": {
+        "message": "Fasado de serĉo"
+    },
+    "searchService": {
+        "message": "Servo de serĉo"
+    },
+    "embedFrontend": {
+        "message": "Fasado de enigita paĝo"
     }
 }
